@@ -3,6 +3,8 @@ I'm Ashish Basetty, a computer engineering student @ UCLA who enjoys working on 
 
 An overview of a couple of my projects posted on my github:
 
+For fun over the summer, I taught myself OpenCV and how to build and train a YOLOv8 model through tutorials. I built a simple model that could translate sign langauge in real-time from a video, and trained it using data from my room. While it could be more accurate with hand pose detection or more advanced hardware than my PC's GPU, I am satisfied with the results and seems to work somewhat effectively given my dataset.
+
 In my class CS35L, I worked with a team to build a detailed event posting social app, using React.js, Material-UI, node.js, and MongoDB. Features include secure login, maps and location search functionality, friends, likes, and a detailed suggestion algorithm that takes into a account filters and preferences.
 
 For my musical analysis project, I used data science and a set of around 60 songs to train a basic model to distinguish between rap, acoustic, and EDM music. It turned out to have a decent accuracy of around 75% for classifying new music from one of the three genres, and I also built a basic ML model to try and classify data. While the ML model didn't prove effective likely due to overfitting, it was a good experience in applying data science to a practical application.
