@@ -1,4 +1,4 @@
-# Hey everyone,
+# A little bit about me
 I'm Ashish Basetty, a computer engineering student @ UCLA who enjoys working on interesting projects. Feel free to take a look at some of my work so far!
 
 An overview of a couple of my projects posted on my github:
