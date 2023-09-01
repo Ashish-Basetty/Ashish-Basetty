@@ -49,6 +49,10 @@ With my hackathon team at LA Hacks, we built a site that allowed users to custom
 ## [Lilypad](https://github.com/AnooshkhaShetty/Lilypad)
 At my first hackathon, we built a basic website to host listings for free food around campus. While we were not able to completely refine the site, learned to apply vanilla React.js as well as connected a Firebase backend to create a dynamic site.
 
+## [CNN CIFAR10 Classifier](https://github.com/Ashish-Basetty/CNN-Learning)
+Using a tutorial, I was able to build a CNN based classifier for a set of common objects from scratch using PyTorch. I learned how to implement neural networks and the thought that goes into choosing network layers, and learned how to use the inbuilt batch training and hardware acceleration. While this is the most recent repo by date,
+I actually completed this project early on but failed to upload it to github until this summer.
+
 <!---
 Ashish-Basetty/Ashish-Basetty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
