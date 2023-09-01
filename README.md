@@ -32,7 +32,13 @@ You can reach out or learn more about me through the below links:
 An overview of a couple of my projects posted on my github. Feel free to take a look at some of my work so far!
 
 ## [Sign Language Alphabet Translator](https://github.com/Ashish-Basetty/sign-language-translator)
-For fun over the summer, I taught myself OpenCV and how to build and train a YOLOv8 model through tutorials. I built a simple model that could translate sign langauge in real-time from a video, and trained it using data from my room. While it could be more accurate with hand pose detection or more advanced hardware than my PC's GPU, I am satisfied with the results and seems to work somewhat effectively given my dataset. Here is a link for a quick demo: https://youtu.be/4hZh6LRzbQw
+For fun over the summer, I taught myself OpenCV and how to build and train a YOLOv8 model through tutorials. I built a simple model that could translate sign langauge in real-time from a video, and trained it using data from my room. While it could be more accurate with hand pose detection or more advanced hardware than my PC's GPU, I am satisfied with the results and seems to work somewhat effectively given my dataset. 
+
+Here is a link for a quick demo: 
+
+<a href="https://youtu.be/4hZh6LRzbQw" className="icon">
+  <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/youtube-256.png" alt="Youtube Link" width="50" height="50" >
+</a>
 
 ## [BruinConnect](https://github.com/AkashM153/CS35L)
 In my class CS35L, I worked with a team to build a detailed event posting social app, using React.js, Material-UI, node.js, and MongoDB Atlas. I built out various features including secure login, maps and location search functionality, friends, likes, and a detailed suggestion algorithm that takes into a account filters and preferences.
