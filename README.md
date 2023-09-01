@@ -31,7 +31,7 @@ You can reach out or learn more about me through the below links:
 # My Projects
 An overview of a couple of my projects posted on my github. Feel free to take a look at some of my work so far!
 
-## Sign Language Alphabet Translator
+## [Sign Language Alphabet Translator](https://github.com/Ashish-Basetty/sign-language-translator)
 For fun over the summer, I taught myself OpenCV and how to build and train a YOLOv8 model through tutorials. I built a simple model that could translate sign langauge in real-time from a video, and trained it using data from my room. While it could be more accurate with hand pose detection or more advanced hardware than my PC's GPU, I am satisfied with the results and seems to work somewhat effectively given my dataset. Here is a link for a quick demo: https://youtu.be/4hZh6LRzbQw
 
 ## [BruinConnect](https://github.com/AkashM153/CS35L)
