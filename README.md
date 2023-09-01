@@ -1,10 +1,18 @@
 # A little bit about me
 I'm Ashish Basetty, a computer engineering student @ UCLA who enjoys working on interesting projects and exploring new technologies and tools. When I'm offline, I also enjoy going to concerts, trying new cuisines, and learning to dance to fun choreos.
 
+## Skill Highlights
+- 👨🏾‍💻 **Coding:** Java, C++, C, OpenMP, Python, Git, Linux/Unix Systems
+- 💻 **Webdev:** HTML/CSS, Javascript, React.js, Material-UI
+- 👷🏾‍♂️ **Backend:** Node.js, MongoDB Atlas, Firebase, OAuth, NoSQL Databases
+- 📝 **Scripting:** Python, Shell, Lisp
+- 👨🏾‍🔬 **Data Science:** Scikit-learn, Pandas, Numpy, Jupyter Notebooks, Logistic Classifiers, K-means Clustering, Perceptron, Decision Tree
+- 🤖 **Machine Learning:** PyTorch, OpenCV, YOLO detector,
+- 🏭 **Engineering:** MATLAB, Verilog, Digital Design
+  
+
 ## Contact
 You can reach out or learn more about me through the below links:
-
-
 
 <a href="https://www.linkedin.com/in/ashish-basetty/" className="icon">
   <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="LinkedIn" width="50" height="50">
@@ -17,7 +25,6 @@ You can reach out or learn more about me through the below links:
 <a href="mailto:ashish.basetty2@gmail.com" className="icon">
   <img src="https://cdn4.iconfinder.com/data/icons/aiga-symbol-signs/439/aiga_mail-256.png" alt="Mail" width="50" height="50" >
 </a>
-
 
 
 
