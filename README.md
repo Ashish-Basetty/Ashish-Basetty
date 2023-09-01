@@ -1,7 +1,24 @@
 # A little bit about me
 I'm Ashish Basetty, a computer engineering student @ UCLA who enjoys working on interesting projects and exploring new technologies and tools. When I'm offline, I also enjoy going to concerts, trying new cuisines, and learning to dance to fun choreos.
 
-You can reach me or learn more about me through the below links:
+## Contact
+You can reach out or learn more about me through the below links:
+
+
+
+<a href="https://www.linkedin.com/in/ashish-basetty/" className="icon">
+  <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-512.png" alt="LinkedIn" width="50" height="50">
+</a>
+  
+<a href="https://www.instagram.com/basettyyyyy/" className="icon">
+  <img src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png" alt="Instagram" width="50" height="50" >
+</a>
+
+<a href="mailto:ashish.basetty2@gmail.com" className="icon">
+  <img src="https://cdn4.iconfinder.com/data/icons/aiga-symbol-signs/439/aiga_mail-256.png" alt="Mail" width="50" height="50" >
+</a>
+
+
 
 
 # My Projects
