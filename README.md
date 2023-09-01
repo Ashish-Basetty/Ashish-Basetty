@@ -1,7 +1,7 @@
 # A little bit about me
 I'm Ashish Basetty, a computer engineering student at UCLA who enjoys working on interesting projects and exploring new technologies and tools. When I'm offline, I also enjoy going to concerts, trying new cuisines, and learning to dance to fun choreos.
 
-**Currently seeking internship position for Summer 2024. Download my resume here!**
+**Currently seeking internship position for Summer 2024. [Download my resume here!](./AshishBasetty_Resume.pdf)**
 
 ## Skill Highlights
 - 👨🏾‍💻 **Coding:** Java, C++, C, OpenMP, Python, Git, Linux/Unix Systems
