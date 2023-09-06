@@ -5,7 +5,7 @@ I'm Ashish Basetty, a computer engineering student at UCLA who enjoys working on
 
 ## Skill Highlights
 - 👨🏾‍💻 **Coding:** Java, C++, C, OpenMP, Python, Git, Linux/Unix Systems
-- 💻 **Webdev:** HTML/CSS, Javascript, React.js, Material-UI
+- 💻 **Webdev:** HTML/CSS, Javascript, React.js, Material-UI, Bootstrap
 - 👷🏾‍♂️ **Backend:** Node.js, MongoDB Atlas, Firebase, OAuth, NoSQL Databases
 - 📝 **Scripting:** Python, Shell, Lisp
 - 👨🏾‍🔬 **Data Science:** Scikit-learn, Pandas, Numpy, Jupyter Notebooks, Logistic Classifiers, K-means Clustering, Perceptron, Decision Tree
