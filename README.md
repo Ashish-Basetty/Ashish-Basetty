@@ -28,6 +28,10 @@ You can reach out or learn more about me through the below links:
   <img src="https://cdn4.iconfinder.com/data/icons/aiga-symbol-signs/439/aiga_mail-256.png" alt="Mail" width="50" height="50" >
 </a>
 
+<a href="ashish-basetty.github.io" className="icon">
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/002/363/076/small/computer-icon-free-vector.jpg" alt="Website" width="50" height="50" >
+</a>
+
 
 
 # My Projects
