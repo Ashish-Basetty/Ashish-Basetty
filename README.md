@@ -4,7 +4,7 @@ I'm Ashish Basetty, a computer engineering student at UCLA who enjoys working on
 **Currently seeking internship position for Summer 2024. [Download my resume here!](https://drive.google.com/file/d/1lVnOOqXI8Z6-DOmLQkRi2LxoD66kNWXo/view?usp=sharing)**
 
 ## Skill Highlights
-- 👨🏾‍💻 **Coding:** Java, C++, C, OpenMP, Python, Git, Linux/Unix Systems
+- 👨🏾‍💻 **Coding / Software Development:** Java, C++, C, OpenMP, Python, Git, Linux/Unix Systems
 - 💻 **Webdev:** HTML/CSS, Javascript, React.js, Material-UI, Bootstrap
 - 👷🏾‍♂️ **Backend:** Node.js, MongoDB Atlas, Firebase, OAuth, NoSQL Databases
 - 📝 **Scripting:** Python, Shell, Lisp
