@@ -1,7 +1,7 @@
 # A little bit about me
 I'm Ashish Basetty, a computer engineering student at UCLA who enjoys working on interesting projects and exploring new technologies and tools. When I'm offline, I also enjoy going to concerts, trying new cuisines, and learning to dance to fun choreos.
 
-**Currently seeking internship position for Summer 2024. [Download my resume here!](https://drive.google.com/file/d/1lVnOOqXI8Z6-DOmLQkRi2LxoD66kNWXo/view?usp=sharing)**
+**Currently seeking internship position for Summer 2024. [Download my resume here!](https://drive.google.com/file/d/1_HtV2GVo5LKJdwF_zVptNGHiOhot0YMs/view?usp=sharing)**
 
 ## Skill Highlights
 - 👨🏾‍💻 **Coding / Software Development:** Java, C++, C, OpenMP, Python, Git, Linux/Unix Systems
@@ -36,6 +36,9 @@ You can reach out or learn more about me through the below links:
 
 # My Projects
 An overview of a couple of my projects posted on my github. Feel free to take a look at some of my work so far!
+
+## [Clearify](https://github.com/Ashish-Basetty/clearify)
+I and a team of four other engineers and many more designers and product leads built a chrome extension that automatically analyzes skincare ingredients lists. We extensively used ManifestV3 and API calls, as well as scanned webpages to identify ingredients lists and automatically load highlighted ingredients. We created a clean and detailed user interface and were able to reliably analyze ingredients based on the EWG database, allowing users to gain insights into the skincare products they were interested in.
 
 ## [Sign Language Alphabet Translator](https://github.com/Ashish-Basetty/sign-language-translator)
 For fun over the summer, I taught myself OpenCV and how to build and train a YOLOv8 model through tutorials. I built a simple model that could translate sign langauge in real-time from a video, and trained it using data from my room. While it could be more accurate with hand pose detection or more advanced hardware than my PC's GPU, I am satisfied with the results and seems to work somewhat effectively given my dataset. [Watch a real-time demo here.](https://youtu.be/4hZh6LRzbQw) 
