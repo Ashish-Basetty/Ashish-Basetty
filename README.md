@@ -1,7 +1,7 @@
 # A little bit about me
 I'm Ashish Basetty, a computer engineering student at UCLA who enjoys working on interesting projects and exploring new technologies and tools. When I'm offline, I also enjoy going to concerts, trying new cuisines, and learning to dance to fun choreos.
 
-**[Download my resume here!](https://drive.google.com/file/d/1_HtV2GVo5LKJdwF_zVptNGHiOhot0YMs/view?usp=sharing)**
+**[Download my resume here!](https://drive.google.com/file/d/1I9V5SymKhz6dL20yWeuOYnhhGy4ND6QY/view?usp=sharing)**
 
 ## Skill Highlights
 - 👨🏾‍💻 **Coding / Software Development:** Java, C++, C, OpenMP, Python, Git, Linux/Unix Systems
