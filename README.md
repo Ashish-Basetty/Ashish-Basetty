@@ -35,7 +35,7 @@ I and a friend entered the GTVO hackathon, focused on increasing voter participa
 ## [FocusView](https://github.com/ArjunNair17/FocusView)
 As a project lead of 15 engineers and designers, I led the development of a webcam-based productivity analyzer, using computer vision and machine learning to provide users statistics on their study habits and long-term trends. Taking on a more management-centered role, I had to deal with sprint planning, user research, and key feature decisions, while also contributing to overall system design and tech stack. In the end, I found the experience an interesting combination of the technical and management aspects of engineering project leadership, and our demo day was met with positive feedback!
 
-## [TCP Client and Server]
+## TCP Client and Server
 For my networking class, I and a team wrote TCP-style server and client programs to implement reliable and encrypted transport with UDP sockets. It was an interesting exploration into the networking protocols that underlie modern applications, and dealt with effectively handling issues of reliability even security. and I created handlers for timeouts, packet buffering, flow control, and packet processing in C++, and our final project handled all these issues effectively.
 
 ## [Clearify](https://github.com/Ashish-Basetty/clearify)
